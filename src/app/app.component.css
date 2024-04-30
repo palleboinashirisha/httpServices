@@ -1,0 +1,19 @@
+.header{
+    text-align: center;
+}
+.content{
+    margin: 10px auto;
+}
+.container{
+    padding: 10px;
+    width: 420px;
+}
+.container h3{
+    text-align: center;
+}
+.form{
+    display: flex;
+    padding: 10px 0px;
+    width: 100%;
+    
+}
